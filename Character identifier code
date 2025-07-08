@@ -1,0 +1,11 @@
+Write code to count the number of strings in list items that have the character w in it. Assign that number to the variable acc_num
+
+items = ["whirring", "wow!", "calendar", "wry", "glass", "", "llama","tumultuous","owing"]
+x=0
+a=0
+for a in items:
+    print(a)
+    if "w" in a:
+        x=x+1
+        
+acc_num=x
