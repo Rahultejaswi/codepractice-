@@ -1,2 +1,2 @@
 # codepractice-
-Acronym creator using 'for' loops.
+Here is a sample of codes that I practised during my coding journey
